@@ -12,4 +12,6 @@ An *online multiplayer maze game*: utilising **p5.js** for graphics and **Google
 
 One may find a **live preview** of the game at:  
 [https://www.dcs.warwick.ac.uk/~u1830744/projects/live-maze-game/index.html](https://www.dcs.warwick.ac.uk/~u1830744/projects/live-maze-game/index.html)  
+  
+    
 ![alt text](https://i.imgur.com/atwlOsM.png)
