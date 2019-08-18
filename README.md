@@ -1,4 +1,4 @@
-# # live-maze-game
+# Live Maze Game
 
 An *online multiplayer maze game*: utilising **[p5.js](https://p5js.org/)** for graphics and **[Google Firebase](https://firebase.google.com/)** for the realtime backend database.
 
