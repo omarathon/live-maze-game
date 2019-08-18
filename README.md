@@ -14,6 +14,8 @@ An online multiplayer maze game: utilising **[p5.js](https://p5js.org/)** for gr
  - [index.html](index.html) - html webpage file
  - [p5.js](https://p5js.org/) and [seedrandom.js](https://github.com/davidbau/seedrandom) - helper library scripts utilised within main.js
 
+---
+
 ## Live Preview
 
 One may find a **live preview** of the game at:  
